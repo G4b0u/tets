@@ -1,0 +1,10 @@
+{
+    "Maison": {
+        "nom": "Ma jolie Maison",
+        "Salon": "Salon",
+        "Chambre": "Chambre à coucher",
+        "Salle de bain": {
+            "bain": "bain"
+        }
+    }
+}

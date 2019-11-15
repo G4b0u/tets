@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <maison>
+
+        <nom>
+            "Ma jolie Maison"
+        </nom>
+
+        <salon>
+            "Salon"
+        </salon>
+
+        <chambre>
+            "Chambre à coucher"
+        </chambre>
+
+        <salle-de-bain>
+            <bain>
+            </bain>
+        </salle-de-bain>
+
+    </maison>
+</document>
